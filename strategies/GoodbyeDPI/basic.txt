@@ -1,0 +1,6 @@
+--native-frag --wrong-seq
+--reverse-frag --wrong-seq
+--native-frag --wrong-seq --fake-with-sni FAKESNI
+--reverse-frag --wrong-seq --fake-with-sni FAKESNI
+--native-frag --wrong-seq --fake-from-hex FAKEHEX --fake-gen 5
+--reverse-frag --wrong-seq --fake-from-hex FAKEHEX --fake-gen 10
